@@ -1,0 +1,8 @@
+Selenium/UI-Testing.SeleniumTests/.vs
+Selenium/UI-Testing.SeleniumTests/.vs/*
+Selenium/UI-Testing.SeleniumTests/obj
+Selenium/UI-Testing.SeleniumTests/obj/*
+Selenium/UI-Testing.SeleniumTests/bin
+Selenium/UI-Testing.SeleniumTests/bin/*
+*.user
+*.suo
