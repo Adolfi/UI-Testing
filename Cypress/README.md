@@ -1,7 +1,7 @@
 # Cypress
 This project includes some basic UI testing examples in Cypress.
 
-## Show me the tests already!
+### Show me the tests already!
 If you want to skip all the setup and just jump straight to the tests, [click here](https://github.com/Adolfi/UI-Testing/tree/main/Cypress/UI-Testing.CypressTests/cypress/integration).
 
 ### Getting started:
