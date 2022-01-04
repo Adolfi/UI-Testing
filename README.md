@@ -9,7 +9,7 @@ We all come from different backgrounds and different things floats our boat. Bro
 
 ### Frameworks:
 
-- ✅ Selenium *(C#)*
+- ✅ Selenium (C#)
 - ✅ Playwright (C#)
-- Cypress (Javascript)
-- Puppeteer (Javascript)
+- 🔜 Cypress (Javascript)
+- 🔜 Puppeteer (Javascript)
