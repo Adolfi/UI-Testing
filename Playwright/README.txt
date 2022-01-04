@@ -1,4 +1,5 @@
-TODO: More setup instructions..
+# Playwright
+This project includes some basic UI testing examples in Microsoft Playwright.
 
-dotnet tool install --global Microsoft.Playwright.CLI
-playwright install
+### Getting started:
+https://playwright.dev/dotnet/docs/intro
