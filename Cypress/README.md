@@ -2,7 +2,7 @@
 This project includes some basic UI testing examples in Cypress.
 
 ## Show me the tests:
-If you want to skip all the setup files and jump straight to the tests, [click here](https://github.com/Adolfi/UI-Testing/tree/main/Cypress/UI-Testing.CypressTests/cypress/integration).
+If you don't intend to fork this repo and you want to skip all the setup files and jump straight to the tests, [click here](https://github.com/Adolfi/UI-Testing/tree/main/Cypress/UI-Testing.CypressTests/cypress/integration).
 
 ### Getting started:
 https://www.browserstack.com/guide/how-to-run-cypress-test-automation
