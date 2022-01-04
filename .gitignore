@@ -4,5 +4,11 @@ Selenium/UI-Testing.SeleniumTests/obj
 Selenium/UI-Testing.SeleniumTests/obj/*
 Selenium/UI-Testing.SeleniumTests/bin
 Selenium/UI-Testing.SeleniumTests/bin/*
+Playwright/UI-Testing.PlaywrightTests/.vs
+Playwright/UI-Testing.PlaywrightTests/.vs/*
+Playwright/UI-Testing.PlaywrightTests/obj
+Playwright/UI-Testing.PlaywrightTests/obj/*
+Playwright/UI-Testing.PlaywrightTests/bin
+Playwright/UI-Testing.PlaywrightTests/bin/*
 *.user
 *.suo
