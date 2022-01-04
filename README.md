@@ -1,2 +1,3 @@
-# UI-Testing
-Repository with different examples of UI testing with different frameworks.
+# UI Testing
+A repository with different UI testing examples using different frameworks.
+All projects includes the same tests againts the exact same [website](https://adolfi.dev).
