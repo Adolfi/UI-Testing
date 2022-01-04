@@ -1,5 +1,5 @@
-# Playwright
-This project includes some basic UI testing examples in Microsoft Playwright.
+# Cypress
+This project includes some basic UI testing examples in Cypress.
 
 ### Getting started:
 https://www.browserstack.com/guide/how-to-run-cypress-test-automation
