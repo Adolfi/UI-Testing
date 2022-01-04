@@ -8,7 +8,7 @@ All these projects includes the exact same tests againts the same [Website](http
 We all come from different backgrounds and different things floats our boat. Browse arounds and find the one that you think works best for you and if you find something you like please share it on [Twitter](https://twitter.com) so that others may also find it (and don't forget to add a GitHub Star ⭐️).
 
 ### Frameworks:
-
+This list is a work-in-progress and not set in stone in anyway. Please share insights if you have any other frameworks that you think is worth investigate adding to this list.
 - ✅ Selenium (C#)
 - ✅ Playwright (C#)
 - 🔜 Cypress (Javascript)
