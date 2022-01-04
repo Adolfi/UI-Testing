@@ -11,7 +11,7 @@ We all come from different backgrounds and different things floats our boat. Bro
 This list is a work-in-progress and not set in stone in anyway. Please share insights if you have any other frameworks that you think is worth investigate adding to this list.
 - ✅ [Selenium](https://github.com/Adolfi/UI-Testing/tree/main/Selenium) (C#)
 - ✅ [Playwright](https://github.com/Adolfi/UI-Testing/tree/main/Playwright) (C#)
-- 🔜 [Cypress](https://github.com/Adolfi/UI-Testing/tree/main/Cypress) (Javascript)
+- ✅ [Cypress](https://github.com/Adolfi/UI-Testing/tree/main/Cypress) (Javascript)
 - 🔜 [Puppeteer](https://github.com/Adolfi/UI-Testing/tree/main/Puppeteer) (Javascript)
 
 #### Read more:
