@@ -5,4 +5,4 @@ A repository with various test examples using different UI testing frameworks.
 All these projects includes the exact same tests againts the same [website](https://adolfi.dev). The idea behind this project and having all the same tests but with different frameworks in one repository is to easily compare different frameworks so that you may find the framework that feels right to you and your team.
 
 ### There is no right or wrong framework!
-We all come from different backgrounds and different things that floats our boat. 
+We all come from different backgrounds and different things that floats our boat. Browse arounds and find the one that you think works best for you and if you find something you like please share it on [Twitter](https://twitter.com).
