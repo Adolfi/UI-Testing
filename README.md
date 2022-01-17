@@ -12,7 +12,6 @@ This list is a work-in-progress and not set in stone in anyway. Please share ins
 - ✅ [Selenium](https://github.com/Adolfi/UI-Testing/tree/main/Selenium) (C#)
 - ✅ [Playwright](https://github.com/Adolfi/UI-Testing/tree/main/Playwright) (C#)
 - ✅ [Cypress](https://github.com/Adolfi/UI-Testing/tree/main/Cypress) (Javascript)
-- 🔜 [Puppeteer](https://github.com/Adolfi/UI-Testing/tree/main/Puppeteer) (Javascript)
 
 #### Read more:
 Go to [adolfi.dev](https://adolfi.dev) if you want to read more articles about testing.
